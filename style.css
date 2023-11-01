@@ -1,5 +1,5 @@
 .header{
-    background-color: #ccc;
+    background-color: #eb710d;
     height: 150px;
     display: flex;
     align-items: center;
@@ -9,7 +9,15 @@
 .menu{
     font-size: 24px;
     font-family: Verdana;
-    color: brown;
+    color: rgb(255, 255, 255);
     font-weight: bolder;
 
+}
+
+.propaganda{
+    height: 500px;
+    background-color: black;
+    background: url("amd.png") center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
